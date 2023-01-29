@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>TODO supply a title</title>
+       
+    </head>
+    <body style="border: 5px solid black">
+        
+        <h1 style="text-align: center"; >Touch any animal to know its features!!</h1>
+    <center>
+        <img  src="‪‪C:\Users\mrith\Desktop\Picture" usemap="#animalsmap"><br>
+   
+    <map name="animalsmap">
+        <area shape="poly" target="_blank" coords="1130,246,1073,294,998,342,911,330,840,314,865,394,1045,397,952,404"href="Goat.html">
+        <area shape="poly" target="_blank" coords="177,542,237,452,276,416,304,504,436,348,487,383,395,534,344,641"href="Sheep.html">
+        <area shape="poly" target="_blank" coords="553,713,527,883,626,727,695,690,867,631,713,728,753,831,882,636"href="Horse.html">
+        <button onclick="window.close()">EXIT</button>
+        </center>
+        <br>
+</body>
+</html>
